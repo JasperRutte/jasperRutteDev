@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b29ce5e-d029-45b8-b727-5fc11967b88f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Advent-of-Code" beforeDir="false" afterPath="$PROJECT_DIR$/../Advent-of-Code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Retriducktion" beforeDir="false" afterPath="$PROJECT_DIR$/../Retriducktion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bot" beforeDir="false" afterPath="$PROJECT_DIR$/../bot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cayuga-engine" beforeDir="false" afterPath="$PROJECT_DIR$/../cayuga-engine" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercism" beforeDir="false" afterPath="$PROJECT_DIR$/../exercism" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ga-chan" beforeDir="false" afterPath="$PROJECT_DIR$/../ga-chan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interactive-desktop" beforeDir="false" afterPath="$PROJECT_DIR$/../interactive-desktop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tic-tac-toe" beforeDir="false" afterPath="$PROJECT_DIR$/../tic-tac-toe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yahtzee" beforeDir="false" afterPath="$PROJECT_DIR$/../yahtzee" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VrQ6KWsQvuexg1sDVddggZlZLy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jasper/projects/jasperRutteDev&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b29ce5e-d029-45b8-b727-5fc11967b88f" name="Changes" comment="" />
+      <created>1695591542713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695591542713</updated>
+      <workItem from="1695591543713" duration="355000" />
+      <workItem from="1695592025139" duration="3068000" />
+      <workItem from="1696346401049" duration="110000" />
+      <workItem from="1696346516482" duration="25000" />
+      <workItem from="1696706776571" duration="6735000" />
+      <workItem from="1696801042260" duration="997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
