@@ -12,6 +12,10 @@
       <change beforePath="$PROJECT_DIR$/../exercism" beforeDir="false" afterPath="$PROJECT_DIR$/../exercism" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ga-chan" beforeDir="false" afterPath="$PROJECT_DIR$/../ga-chan" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../interactive-desktop" beforeDir="false" afterPath="$PROJECT_DIR$/../interactive-desktop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jasperRutteDev/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/jasperRutteDev/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jasperRutteDev/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/jasperRutteDev/src/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jasperRutteDev/src/components/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/jasperRutteDev/src/components/About.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tic-tac-toe" beforeDir="false" afterPath="$PROJECT_DIR$/../tic-tac-toe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../yahtzee" beforeDir="false" afterPath="$PROJECT_DIR$/../yahtzee" afterDir="false" />
     </list>
@@ -59,7 +63,8 @@
       <workItem from="1696346401049" duration="110000" />
       <workItem from="1696346516482" duration="25000" />
       <workItem from="1696706776571" duration="6735000" />
-      <workItem from="1696801042260" duration="997000" />
+      <workItem from="1696801042260" duration="2476000" />
+      <workItem from="1697231426593" duration="315000" />
     </task>
     <servers />
   </component>

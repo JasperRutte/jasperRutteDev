@@ -8,8 +8,8 @@
         <h2>And im a software developer</h2>
     </header>
     <main>
-        <router-link to="About">About me </router-link>
-        <router-link to="Experience">Experiences </router-link>
+        <router-link to="About">About me </router-link> |
+        <router-link to="Experience">Experiences </router-link> |
         <router-link to="Links">Links</router-link>
 
         <router-view></router-view>
