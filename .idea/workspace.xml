@@ -15,7 +15,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jasperRutteDev/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/jasperRutteDev/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jasperRutteDev/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/jasperRutteDev/src/assets/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jasperRutteDev/src/components/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/jasperRutteDev/src/components/About.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tic-tac-toe" beforeDir="false" afterPath="$PROJECT_DIR$/../tic-tac-toe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../yahtzee" beforeDir="false" afterPath="$PROJECT_DIR$/../yahtzee" afterDir="false" />
     </list>
@@ -64,7 +63,8 @@
       <workItem from="1696346516482" duration="25000" />
       <workItem from="1696706776571" duration="6735000" />
       <workItem from="1696801042260" duration="2476000" />
-      <workItem from="1697231426593" duration="315000" />
+      <workItem from="1697231426593" duration="1161000" />
+      <workItem from="1697303891750" duration="387000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,17 @@
 @import './base.css';
+body {
+    background-color: #222222;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: lightgrey;
+}
+
+h3 {
+    color: lightgrey;
+}
 
 #app {
     max-width: 1280px;
